@@ -6,17 +6,16 @@ Este é um projeto desenvolvido em **Python** focado na validação de números 
 
 - Python 3.10+.
 - Biblioteca sys.
-- **Bibliotecas:** `sys` (nativa do Python)
-
 
 ## ⚙️ Instalação
 
-- Certifique-se de ter o Python instalado em sua máquina.
-- Clone o repositório ou baixe o arquivo `Validacao_CPF.py`.
+- Certifique-se de ter o Python instalado (versão 3.10 ou superior).
+- Baixe o arquivo Validacao_CPF.py.
 - Abra o terminal na pasta do arquivo e execute:
-   ```bash
-   python Validacao_CPF.py
-   ```
+
+```bash
+python Validacao_CPF.py
+```
 
 ## 🛠️ Funcionalidades
 
