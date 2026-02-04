@@ -35,9 +35,9 @@ python Validacao_CPF.py
 
 ## 💡 Exemplo de uso
 
-Após executar o programa, o usuário deve informar o CPF
-Informando o CPF 192.163.214-20
-Após informar o CPF, o usuário visualiza se o CPF é válido:
+- Após executar o programa, o usuário deve informar o CPF
+- Informando o CPF 192.163.214-20
+- Após informar o CPF, o usuário visualiza se o CPF é válido:
 
 ![CPF validado](assets/Validacao-CPF.PNG)
 
