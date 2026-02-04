@@ -35,7 +35,8 @@ python Validacao_CPF.py
 
 ## 💡 Exemplo de uso
 
-Após executar o programa, o usuário visualiza se o CPF é válido:
+- Informe o CPF
+- Após executar o programa, o usuário visualiza se o CPF é válido:
 
 ![CPF validado](assets/Validacao-CPF.PNG)
 
