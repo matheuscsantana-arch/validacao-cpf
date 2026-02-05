@@ -1,11 +1,11 @@
-# Validador de CPF ⚖️
+# Validação de CPF ⚖️
 
 Este é um projeto desenvolvido em **Python** focado na validação de números de CPF (Cadastro de Pessoas Físicas). O script analisa se um CPF fornecido pelo usuário é matematicamente válido, processando a limpeza de caracteres e aplicando o algoritmo de verificação dos dígitos oficiais.
 
 ## 💻 Tecnologias
 
 - Python 3.10+.
-- Biblioteca sys.
+- Biblioteca `sys`.
 
 ## ⚙️ Instalação
 
@@ -22,7 +22,7 @@ python Validacao_CPF.py
 | Recurso | Descrição | Detalhes |
 | :--- | :--- | :--- |
 | **Limpeza de Dados** | Remove automaticamente pontos e traços da entrada. | Utiliza o método `.replace()` para tratar a string. |
-| **Algoritmo de Cálculo** | Recalcula os dígitos verificadores para comparação. | Realiza a soma ponderada dos 9 primeiros dígitos. |
+| **Algoritmo de Cálculo** | Calcula os dígitos verificadores para comparação. | Realiza a soma ponderada dos 9 primeiros dígitos. |
 | **Tratamento de Erros** | Identifica entradas que não sejam numéricas. | Utiliza blocos `try/except` para evitar interrupções. |
 | **Validação de Sequência** | Rejeita CPFs compostos por números repetidos. | Identifica sequências inválidas (ex: 111.111.111-11). |
 
